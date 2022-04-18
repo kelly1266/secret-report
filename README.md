@@ -1,0 +1,2 @@
+# Summary
+secret-report is a python script that uses trufflehog to search all of the repos in an azure devops organization for secrets. The script then compiles any secrets found by trufflehog into a single csv.

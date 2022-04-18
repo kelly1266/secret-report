@@ -1,4 +1,4 @@
 azure_username = ""
 azure_token = ""
 azure_organization = ""
-trufflehotExePath = ""
+trufflehogExePath = ""
